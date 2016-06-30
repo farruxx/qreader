@@ -40,7 +40,7 @@ android {
 dependencies {
     testCompile 'junit:junit:4.12'
     // Add Vision API
-    compile "com.google.android.gms:play-services-vision:8.4.0"
+    compile "com.google.android.gms:play-services-vision:9.2"
 }
 
 // Place this in the 'build.gradle' of the library module
